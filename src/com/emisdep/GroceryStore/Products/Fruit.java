@@ -1,6 +1,6 @@
-package com.emisdep;
+package com.emisdep.GroceryStore.Products;
 
-public class Fruit extends Product{
+public class Fruit extends Product {
     private String type;
     private String supplier;
     private boolean isOrganic;

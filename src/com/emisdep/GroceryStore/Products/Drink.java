@@ -1,4 +1,4 @@
-package com.emisdep;
+package com.emisdep.GroceryStore.Products;
 
 public class Drink extends Product {
     public final static String[] UNITS = new String[] {"Gal", "oz", "litre", "ml", "pint", "quart"};
